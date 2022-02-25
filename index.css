@@ -30,5 +30,31 @@
   font-size: 18px;
 }
 #main-doc {
-  margin-left: 330px;
+  margin-left: 300px;
+  font-size: 19px;
+  line-height: 20px;
+  padding-top: 30px;
+}
+.section-header {
+  font-size: 30px;
+  font-weight: 600;
+  padding-bottom: 30px;
+}
+.main-section {
+  padding: 15px 40px 0px 40px;
+}
+ul {
+  margin-left: 40px;
+}
+li {
+  padding-bottom: 15px;
+}
+p {
+  padding-bottom: 15px;
+}
+.code-div {
+  background-color: rgb(235, 230, 230);
+  font-size: 15px;
+  padding: 20px 20px 20px 10px;
+  margin-left: 20px;
 }
